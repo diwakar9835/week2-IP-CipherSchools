@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-red{
+    color:red;
+}                   /*one utility class for only one work*/
+.text-green{
+    color: green;
+}
+.bg-dark{
+    background: #cdcdcd;
+}
